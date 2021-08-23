@@ -11,8 +11,9 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/xx-springframework-step001" />
-            <option value="$PROJECT_DIR$/xx-springframework-step002" />
+            <option value="$PROJECT_DIR$/xx-springframework-001" />
+            <option value="$PROJECT_DIR$/xx-springframework-002" />
+            <option value="$PROJECT_DIR$/xx-springframework-003" />
           </set>
         </option>
       </GradleProjectSettings>
