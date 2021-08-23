@@ -1,4 +1,5 @@
 rootProject.name = 'xx-learning-spring'
-include 'xx-springframework-step001'
-include 'xx-springframework-step002'
+include 'xx-springframework-001'
+include 'xx-springframework-002'
+include 'xx-springframework-003'
 
